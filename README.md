@@ -26,35 +26,34 @@ I'm an electrical engineering student at McMaster University (expected graduatio
 ## 🚀 Featured Projects
 
 ### 🦾 [Exoskeleton Motor Control PCB](https://github.com/YOUR-USERNAME/exoskeleton-motor-pcb)
-> Motor-control PCB in Altium Designer for a 48V exoskeleton power system supporting up to 25A peak current, with current monitoring, overvoltage      protection, and power distribution.
+> Motor-Protection PCB in Altium Designer for the McMaster Exoskeleton Power distribution system.
  
 - **Tools:** `Altium Designer`
 - **Details:** CubeMars AK70-9 V3 motor, 48V/25A, 2 Layers, INA228 current sensing, LTC4366 gate driver
-- **Result:** ADD outcome, e.g. "integrated into the team's prototype", "tested at X A continuous"
 <!-- <p align="center"><img src="images/motor-pcb.png" width="500"></p> -->
  
 ### 🏀 [Ball Launcher](https://github.com/YOUR-USERNAME/ball-launcher)
-> An Arduino-controlled ball launcher with a mechanical design modelled in Inventor.
+> An assistive Arduino-controlled launcher that lets people with limited arm mobility play fetch with their dogs.
  
 - **Tools:** `Autodesk Inventor` `Arduino` `C++`
-- **Details:** ADD specifics, e.g. launch mechanism (flywheel / spring / servo), motors and sensors used, how it's aimed
-- **Result:** ADD outcome, e.g. "launches up to X m consistently"
+- **Details:** Team project for a client with rheumatoid arthritis, letting them play fetch with their dog despite limited arm mobility. Prototype launches ping-pong balls.
 <!-- <p align="center"><img src="images/ball-launcher.png" width="500"></p> -->
  
 ### 💣 [Terminal Minesweeper](https://github.com/YOUR-USERNAME/minesweeper-java)
 > A fully playable Minesweeper game that runs in the terminal.
 
 - **Tools:** `Java`
-- **Details:** the complete game logic, including random mine placement, number calculation, and cascading reveal of empty cells
+- **Details:** The complete game logic, including random mine placement, number calculation, and cascading reveal of empty cells
 <!-- <p align="center"><img src="images/Minesweeper.png" width="500"></p> -->
 
 ### 🤖 [QArm QR-Code Pick-and-Place](https://github.com/YOUR-USERNAME/qarm-qr-pickup)
-> Software that lets a Quanser QArm pick up items identified by scanning QR codes, behind a full login system. Inventor Mechanical end effector
-> model.
- 
-- **Tools:** `Python` `Autodesk Inventor`
-- **Details:** ADD specifics, e.g. camera/QR library used, how login credentials are stored, how the arm's motion is planned
-- **Result:** Reliably picks and places 5 different item types in a container.
+> A Q-Arm with a custom end-effector that picks and sorts items for an order, controlled by a Python ordering system.
+
+- **Tools:** `Python` `bcrypt` `Autodesk Inventor`
+- **My contributions:**
+  - Designed the end-effector attachment in Inventor
+  - Wrote the secure account system: sign-up with duplicate username checks and password rules (6+ characters with upper, lower, digit, and symbol), passwords hashed with bcrypt, and login authentication against a CSV user database
+- **Team built:** barcode scanning and CSV inventory lookup, order processing (discounts, tax, receipts, order history), and automated pick-and-place handling
 <!-- <p align="center"><img src="images/qarm.png" width="500"></p> -->
 
 ---
@@ -80,14 +79,14 @@ I'm an electrical engineering student at McMaster University (expected graduatio
 
 **Lab & Other**
 
-Oscilloscopes · Multimeters · Function generators · Logic analyzers · Git
+Oscilloscopes · Multimeters · Function generators · Git · Autodesk Inventor
 
 ---
 
 ## 🎓 Education & Experience
 
 - **B.Eng. Electrical Engineering**, McMaster University (2025 – 2029)
-- **Role / Co-op**, Company (dates): one line on what you did
+- **Role / Co-op**, VR Mechanical (Apr.2026 – Aug.2026): Assisted the project management team on Humber College Lakeshore and Lakeview Sustainability Center projects
 - **Club / Team**, McMaster Exoskeleton (Power Architecture)
 
 ---
