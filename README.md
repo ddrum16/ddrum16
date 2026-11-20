@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dante-drumond"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/dante-drumond-b6a06b358/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:drdrum16@gmail.com.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -103,6 +103,6 @@ Oscilloscopes · Multimeters · Function generators · Git · Autodesk Inventor
 
 ## 📫 Get in Touch
 
-Always happy to talk hardware, robotics, or opportunities. Reach me on [LinkedIn](https://linkedin.com/in/dante-drumond) or [by email](drdrum16@gmail.com).
+Always happy to talk hardware, robotics, or opportunities. Reach me on [LinkedIn](https://www.linkedin.com/in/dante-drumond-b6a06b358/) or [by email](drdrum16@gmail.com).
 
 <p align="center">⭐ Thanks for stopping by!</p>
