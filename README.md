@@ -25,7 +25,7 @@ I'm an electrical engineering student at McMaster University (expected graduatio
 
 ## 🚀 Featured Projects
 ---
-### 🦾 [Exoskeleton Motor Control PCB](https://github.com/YOUR-USERNAME/exoskeleton-motor-pcb)
+### 🦾 [Exoskeleton Motor Control PCB](https://github.com/ddrum16/exoskeleton-motor-pcb)
 > Motor-Protection PCB in Altium Designer for the McMaster Exoskeleton Power distribution system.
  
 - **Tools:** `Altium Designer`
@@ -35,7 +35,7 @@ I'm an electrical engineering student at McMaster University (expected graduatio
 
 ---
 
-### 🏀 [Ball Launcher](https://github.com/YOUR-USERNAME/ball-launcher)
+### 🏀 [Ball Launcher](https://github.com/ddrum16/ball-launcher)
 > An assistive Arduino-controlled launcher that lets people with limited arm mobility play fetch with their dogs.
  
 - **Tools:** `Autodesk Inventor` `Arduino` `C++`
@@ -45,7 +45,7 @@ I'm an electrical engineering student at McMaster University (expected graduatio
 
 ---
 
-### 💣 [Terminal Minesweeper](https://github.com/YOUR-USERNAME/minesweeper-java)
+### 💣 [Terminal Minesweeper](https://github.com/ddrum16/minesweeper-java)
 > A fully playable Minesweeper game that runs in the terminal.
 
 - **Tools:** `Java`
@@ -55,7 +55,7 @@ I'm an electrical engineering student at McMaster University (expected graduatio
 
 ---
 
-### 🤖 [QArm QR-Code Pick-and-Place](https://github.com/YOUR-USERNAME/qarm-qr-pickup)
+### 🤖 [QArm QR-Code Pick-and-Place](https://github.com/ddrum16/qarm-qr-pickup)
 > A Q-Arm with a custom end-effector that picks and sorts items for an order, controlled by a Python ordering system.
 
 - **Tools:** `Python` `bcrypt` `Autodesk Inventor`
