@@ -14,30 +14,28 @@
 
 ## 👋 About Me
 
-I'm an electrical engineering student at McMaster University (expected graduation 2029). I enjoy taking a project from schematic to PCB to working firmware, and I'm especially interested in **robotics / power electronics /**
+I'm an electrical engineering student at McMaster University (expected graduation 2029). I enjoy taking a project from schematic to PCB to working firmware, and I'm especially interested in **robotics / power electronics**
 
-- 🔭 Currently working on: **PROJECT NAME**
-- 🌱 Currently learning: C/C++, Verilog HDL, Quartus, Pspice, STM32
-- 🔍 Looking for: **co-op / internship 
-- ⚡ Fun fact: **SOMETHING MEMORABLE**
+- 🔭 **Currently working on:** Starship Shooter Game using C++
+- 🌱 **Currently learning:** C/C++, Verilog HDL, Quartus, Pspice, STM32
+- 🔍 **Looking for:** co-op / internship 
+- ⚡ **Fun fact:** SOMETHING MEMORABLE
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🦾 [Exoskeleton Motor Control PCB](https://github.com/YOUR-USERNAME/exoskeleton-motor-pcb)
-> Custom motor driver board designed for my university exoskeleton team.
+> Motor-control PCB in Altium Designer for a 48V exoskeleton power system supporting up to 25A peak current, with current monitoring, overvoltage      protection, and power distribution.
  
-- **What I built:** a PCB that drives and controls the exoskeleton's motors, from schematic capture through layout
 - **Tools:** `Altium Designer`
-- **Details:** ADD specifics, e.g. motor type, voltage/current rating, number of layers, driver IC, protection features
+- **Details:** CubeMars AK70-9 V3 motor, 48V/25A, 2 Layers, INA228 current sensing, LTC4366 gate driver
 - **Result:** ADD outcome, e.g. "integrated into the team's prototype", "tested at X A continuous"
 <!-- <p align="center"><img src="images/motor-pcb.png" width="500"></p> -->
  
 ### 🏀 [Ball Launcher](https://github.com/YOUR-USERNAME/ball-launcher)
-> An Arduino-controlled launcher with a mechanical design modeled in Inventor.
+> An Arduino-controlled ball launcher with a mechanical design modelled in Inventor.
  
-- **What I built:** the full mechanism, from the CAD model to the electronics and control code
 - **Tools:** `Autodesk Inventor` `Arduino` `C++`
 - **Details:** ADD specifics, e.g. launch mechanism (flywheel / spring / servo), motors and sensors used, how it's aimed
 - **Result:** ADD outcome, e.g. "launches up to X m consistently"
@@ -45,17 +43,19 @@ I'm an electrical engineering student at McMaster University (expected graduatio
  
 ### 💣 [Terminal Minesweeper](https://github.com/YOUR-USERNAME/minesweeper-java)
 > A fully playable Minesweeper game that runs in the terminal.
- 
-- **What I built:** the complete game logic, including random mine placement, number calculation, and cascading reveal of empty cells
+
 - **Tools:** `Java`
-- **How to run:** `javac Minesweeper.java && java Minesweeper`
+- **Details:** the complete game logic, including random mine placement, number calculation, and cascading reveal of empty cells
+<!-- <p align="center"><img src="images/Minesweeper.png" width="500"></p> -->
+
 ### 🤖 [QArm QR-Code Pick-and-Place](https://github.com/YOUR-USERNAME/qarm-qr-pickup)
-> Software that lets a Quanser QArm pick up items identified by scanning QR codes, behind a full login system.
+> Software that lets a Quanser QArm pick up items identified by scanning QR codes, behind a full login system. Inventor Mechanical end effector
+> model.
  
-- **What I built:** Python code to move the arm, a QR scanning pipeline that tells it which item to grab, and a user login system
-- **Tools:** `Python`
+- **Tools:** `Python` `Autodesk Inventor`
 - **Details:** ADD specifics, e.g. camera/QR library used, how login credentials are stored, how the arm's motion is planned
-- **Result:** ADD outcome, e.g. "reliably picks and places N item types"
+- **Result:** Reliably picks and places 5 different item types in a container.
+<!-- <p align="center"><img src="images/qarm.png" width="500"></p> -->
 
 ---
 
