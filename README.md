@@ -30,21 +30,21 @@ I'm an electrical engineering student at McMaster University (expected graduatio
  
 - **Tools:** `Altium Designer`
 - **Details:** CubeMars AK70-9 V3 motor, 48V/25A, 2 Layers, INA228 current sensing, LTC4366 gate driver
-<!-- <p align="center"><img src="images/motor-pcb.png" width="500"></p> -->
- 
+<img width="1288" height="1278" alt="Screenshot 2026-11-20 183755" src="https://github.com/user-attachments/assets/936099bf-15a2-44a2-9164-346e0a25df0c" />
+
 ### 🏀 [Ball Launcher](https://github.com/YOUR-USERNAME/ball-launcher)
 > An assistive Arduino-controlled launcher that lets people with limited arm mobility play fetch with their dogs.
  
 - **Tools:** `Autodesk Inventor` `Arduino` `C++`
 - **Details:** Team project for a client with rheumatoid arthritis, letting them play fetch with their dog despite limited arm mobility. Prototype launches ping-pong balls.
-<!-- <p align="center"><img src="images/ball-launcher.png" width="500"></p> -->
- 
+<img width="1222" height="690" alt="Screenshot 2026-11-20 183109" src="https://github.com/user-attachments/assets/2abfbb94-cd01-4483-944c-37382b195c74" />
+
 ### 💣 [Terminal Minesweeper](https://github.com/YOUR-USERNAME/minesweeper-java)
 > A fully playable Minesweeper game that runs in the terminal.
 
 - **Tools:** `Java`
 - **Details:** The complete game logic, including random mine placement, number calculation, and cascading reveal of empty cells
-<!-- <p align="center"><img src="images/Minesweeper.png" width="500"></p> -->
+<img width="890" height="788" alt="Screenshot 2026-11-20 183406" src="https://github.com/user-attachments/assets/2b59d837-567a-4775-a3a1-f5a93a7691a4" />
 
 ### 🤖 [QArm QR-Code Pick-and-Place](https://github.com/YOUR-USERNAME/qarm-qr-pickup)
 > A Q-Arm with a custom end-effector that picks and sorts items for an order, controlled by a Python ordering system.
@@ -54,7 +54,7 @@ I'm an electrical engineering student at McMaster University (expected graduatio
   - Designed the end-effector attachment in Inventor
   - Wrote the secure account system: sign-up with duplicate username checks and password rules (6+ characters with upper, lower, digit, and symbol), passwords hashed with bcrypt, and login authentication against a CSV user database
 - **Team built:** barcode scanning and CSV inventory lookup, order processing (discounts, tax, receipts, order history), and automated pick-and-place handling
-<!-- <p align="center"><img src="images/qarm.png" width="500"></p> -->
+<img width="638" height="510" alt="Screenshot 2026-11-20 183038" src="https://github.com/user-attachments/assets/0d76b464-5a8e-4b3d-a8e7-d4409b842d0e" />
 
 ---
 
