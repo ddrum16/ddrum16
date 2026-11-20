@@ -1,26 +1,61 @@
-<h1 align="center">Hi, I'm YOUR NAME ⚡</h1>
+<h1 align="center">Hi, I'm Dante Drumond ⚡</h1>
 
 <p align="center">
   <b>Electrical Engineering Student | Embedded Systems | PCB Design</b><br>
-  Based in Hamilton, Ontario 🇨🇦
+  Based in Bolton/Hamilton, Ontario 🇨🇦
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://YOUR-WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/dante-drumond"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:drdrum16@gmail.com.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm an electrical engineering student at **YOUR UNIVERSITY** (expected graduation **YEAR**). I enjoy taking a project from schematic to PCB to working firmware, and I'm especially interested in **embedded systems / power electronics / signal processing / YOUR AREA**.
+I'm an electrical engineering student at McMaster University (expected graduation 2029). I enjoy taking a project from schematic to PCB to working firmware, and I'm especially interested in **robotics / power electronics /**
 
 - 🔭 Currently working on: **PROJECT NAME**
-- 🌱 Currently learning: **e.g. STM32, RTOS, high-speed PCB layout**
-- 🔍 Looking for: **co-op / internship / entry-level roles in YOUR TARGET FIELD**
+- 🌱 Currently learning: C/C++, Verilog HDL, Quartus, Pspice, STM32
+- 🔍 Looking for: **co-op / internship 
 - ⚡ Fun fact: **SOMETHING MEMORABLE**
+
+---
+
+## 🚀 Featured Projects
+
+### 🦾 [Exoskeleton Motor Control PCB](https://github.com/YOUR-USERNAME/exoskeleton-motor-pcb)
+> Custom motor driver board designed for my university exoskeleton team.
+ 
+- **What I built:** a PCB that drives and controls the exoskeleton's motors, from schematic capture through layout
+- **Tools:** `Altium Designer`
+- **Details:** ADD specifics, e.g. motor type, voltage/current rating, number of layers, driver IC, protection features
+- **Result:** ADD outcome, e.g. "integrated into the team's prototype", "tested at X A continuous"
+<!-- <p align="center"><img src="images/motor-pcb.png" width="500"></p> -->
+ 
+### 🏀 [Ball Launcher](https://github.com/YOUR-USERNAME/ball-launcher)
+> An Arduino-controlled launcher with a mechanical design modeled in Inventor.
+ 
+- **What I built:** the full mechanism, from the CAD model to the electronics and control code
+- **Tools:** `Autodesk Inventor` `Arduino` `C++`
+- **Details:** ADD specifics, e.g. launch mechanism (flywheel / spring / servo), motors and sensors used, how it's aimed
+- **Result:** ADD outcome, e.g. "launches up to X m consistently"
+<!-- <p align="center"><img src="images/ball-launcher.png" width="500"></p> -->
+ 
+### 💣 [Terminal Minesweeper](https://github.com/YOUR-USERNAME/minesweeper-java)
+> A fully playable Minesweeper game that runs in the terminal.
+ 
+- **What I built:** the complete game logic, including random mine placement, number calculation, and cascading reveal of empty cells
+- **Tools:** `Java`
+- **How to run:** `javac Minesweeper.java && java Minesweeper`
+### 🤖 [QArm QR-Code Pick-and-Place](https://github.com/YOUR-USERNAME/qarm-qr-pickup)
+> Software that lets a Quanser QArm pick up items identified by scanning QR codes, behind a full login system.
+ 
+- **What I built:** Python code to move the arm, a QR scanning pipeline that tells it which item to grab, and a user login system
+- **Tools:** `Python`
+- **Details:** ADD specifics, e.g. camera/QR library used, how login credentials are stored, how the arm's motion is planned
+- **Result:** ADD outcome, e.g. "reliably picks and places N item types"
 
 ---
 
@@ -29,16 +64,11 @@ I'm an electrical engineering student at **YOUR UNIVERSITY** (expected graduatio
 **Hardware & PCB Design**
 
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-0072BC?style=flat-square)
-![Multisim](https://img.shields.io/badge/Multisim-00A651?style=flat-square)
 
 **Microcontrollers & Embedded**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 **Programming**
 
@@ -50,49 +80,20 @@ I'm an electrical engineering student at **YOUR UNIVERSITY** (expected graduatio
 
 **Lab & Other**
 
-Oscilloscopes · Multimeters · Function generators · Logic analyzers · Soldering (through-hole & SMD) · Git
-
----
-
-## 🚀 Featured Projects
-
-### 🔌 [Project Name One](https://github.com/YOUR-USERNAME/project-one)
-> One-sentence summary of what it does.
-
-- **What I built:** brief description of the design (e.g. a 4-layer PCB with an STM32 controlling a motor driver)
-- **Tools:** `Altium Designer` `C` `Arduino`
-- **Result:** a measurable outcome (e.g. "achieved 92% efficiency", "reads sensors at 1 kHz")
-
-<!-- Add a photo of the board or a schematic screenshot:
-<p align="center"><img src="images/project-one.png" width="500"></p>
--->
-
-### 🤖 [Project Name Two](https://github.com/YOUR-USERNAME/project-two)
-> One-sentence summary of what it does.
-
-- **What I built:** brief description
-- **Tools:** `C++` `Python` `Java`
-- **Result:** a measurable outcome
-
-### 📡 [Project Name Three](https://github.com/YOUR-USERNAME/project-three)
-> One-sentence summary of what it does.
-
-- **What I built:** brief description
-- **Tools:** `Arduino` `LTspice`
-- **Result:** a measurable outcome
+Oscilloscopes · Multimeters · Function generators · Logic analyzers · Git
 
 ---
 
 ## 🎓 Education & Experience
 
-- **B.Eng. Electrical Engineering**, YOUR UNIVERSITY (YEAR – YEAR)
+- **B.Eng. Electrical Engineering**, McMaster University (2025 – 2029)
 - **Role / Co-op**, Company (dates): one line on what you did
-- **Club / Team**, e.g. design team, IEEE chapter, robotics club
+- **Club / Team**, McMaster Exoskeleton (Power Architecture)
 
 ---
 
 ## 📫 Get in Touch
 
-Always happy to talk hardware, embedded projects, or opportunities. Reach me on [LinkedIn](https://linkedin.com/in/YOUR-USERNAME) or [by email](mailto:you@email.com).
+Always happy to talk hardware, robotics, or opportunities. Reach me on [LinkedIn](https://linkedin.com/in/dante-drumond) or [by email](drdrum16@gmail.com).
 
 <p align="center">⭐ Thanks for stopping by!</p>
