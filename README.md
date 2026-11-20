@@ -24,7 +24,7 @@ I'm an electrical engineering student at McMaster University (expected graduatio
 ---
 
 ## 🚀 Featured Projects
-
+---
 ### 🦾 [Exoskeleton Motor Control PCB](https://github.com/YOUR-USERNAME/exoskeleton-motor-pcb)
 > Motor-Protection PCB in Altium Designer for the McMaster Exoskeleton Power distribution system.
  
@@ -32,6 +32,8 @@ I'm an electrical engineering student at McMaster University (expected graduatio
 - **Details:** CubeMars AK70-9 V3 motor, 48V/25A, 2 Layers, INA228 current sensing, LTC4366 gate driver
 
 <img width="300" alt="Exoskeleton motor PCB in Altium Designer" src="https://github.com/user-attachments/assets/936099bf-15a2-44a2-9164-346e0a25df0c" />
+
+---
 
 ### 🏀 [Ball Launcher](https://github.com/YOUR-USERNAME/ball-launcher)
 > An assistive Arduino-controlled launcher that lets people with limited arm mobility play fetch with their dogs.
@@ -41,6 +43,8 @@ I'm an electrical engineering student at McMaster University (expected graduatio
 
 <img width="530" alt="Ball launcher" src="https://github.com/user-attachments/assets/2abfbb94-cd01-4483-944c-37382b195c74" />
 
+---
+
 ### 💣 [Terminal Minesweeper](https://github.com/YOUR-USERNAME/minesweeper-java)
 > A fully playable Minesweeper game that runs in the terminal.
 
@@ -48,6 +52,8 @@ I'm an electrical engineering student at McMaster University (expected graduatio
 - **Details:** The complete game logic, including random mine placement, number calculation, and cascading reveal of empty cells
 
 <img width="340" alt="Minesweeper in the terminal" src="https://github.com/user-attachments/assets/2b59d837-567a-4775-a3a1-f5a93a7691a4" />
+
+---
 
 ### 🤖 [QArm QR-Code Pick-and-Place](https://github.com/YOUR-USERNAME/qarm-qr-pickup)
 > A Q-Arm with a custom end-effector that picks and sorts items for an order, controlled by a Python ordering system.
