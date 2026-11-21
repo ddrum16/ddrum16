@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dante Drumond ⚡</h1>
 
 <p align="center">
-  <b>Electrical Engineering Student | Embedded Systems | PCB Design</b><br>
+  <b>Electrical Engineering Student | Robotics | PCB Design</b><br>
   Based in Bolton/Hamilton, Ontario 🇨🇦
 </p>
 
@@ -19,7 +19,7 @@ I'm an electrical engineering student at McMaster University (expected graduatio
 - 🔭 **Currently working on:** Starship Shooter Game using C++
 - 🌱 **Currently learning:** C/C++, Verilog HDL, Quartus, Pspice, STM32
 - 🔍 **Looking for:** co-op / internship 
-- ⚡ **Fun fact:** SOMETHING MEMORABLE
+- 🍁 **Fun fact:** Toronto Maple Leafs fan. I know a lot about handling disappointment, which helps in debugging
 
 ---
 
