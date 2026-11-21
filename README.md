@@ -25,11 +25,11 @@ I'm an electrical engineering student at McMaster University (expected graduatio
 
 ## 🚀 Featured Projects
 ---
-### 🦾 [Exoskeleton Motor Control PCB](https://github.com/ddrum16/exoskeleton-motor-pcb)
-> Motor-Protection PCB in Altium Designer for the McMaster Exoskeleton Power distribution system.
+### 🦾 [Exoskeleton Motor Power & Protection PCB](https://github.com/ddrum16/exoskeleton-motor-pcb)
+> Motor Power and Protection PCB in Altium Designer for the McMaster Exoskeleton Power distribution system.
  
 - **Tools:** `Altium Designer`
-- **Details:** CubeMars AK70-9 V3 motor, 48V/25A, 2 Layers, INA228 current sensing, LTC4366 gate driver
+- **Details:** 48V/25A, 2 Layers, INA228 current sensing, LTC4366 gate driver
 
 <img width="300" alt="Exoskeleton motor PCB in Altium Designer" src="https://github.com/user-attachments/assets/936099bf-15a2-44a2-9164-346e0a25df0c" />
 
